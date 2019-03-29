@@ -1,2 +1,9 @@
 echo "# Nhom3" >> README.md
 git init
+echo "# Nhom3" >> README.md
+git init
+echo "# Nhom3" >> README.md
+git init
+echo "# Nhom3" >> README.md
+git init
+
